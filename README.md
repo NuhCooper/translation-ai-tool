@@ -1,3 +1,15 @@
+---
+title: survey-translation-ai-tool
+emoji: 🌍
+colorFrom: blue
+colorTo: green
+sdk: gradio
+sdk_version: 5.31.0
+app_file: app.py
+pinned: false
+---
+
+
 # Survey Translation AI Tool
 
 This project provides a simple, lightweight AI-powered solution for translating short survey questions into multiple languages. It demonstrates how pre-trained neural machine translation models can support faster localisation workflows in a business context.
